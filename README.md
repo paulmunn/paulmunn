@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/paulmunn/paulmunn/main/assets/header.png" alt="Header" width="100%"/>
+</div>
 
 <!--
 **paulmunn/paulmunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
